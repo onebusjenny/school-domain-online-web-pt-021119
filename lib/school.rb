@@ -5,6 +5,6 @@ class School
     @model = model
     end
   
-  school.roster
+
   
-end
+
