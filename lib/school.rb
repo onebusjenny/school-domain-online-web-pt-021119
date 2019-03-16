@@ -8,5 +8,5 @@ class School
   def school (name)
 @school = name
 end  
-
+school.new
 end
