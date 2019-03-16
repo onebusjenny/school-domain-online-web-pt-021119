@@ -1,6 +1,6 @@
 class School
   
-  
+  school = {}
   def initialize(model)
     @model = model
     end
