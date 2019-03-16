@@ -5,7 +5,8 @@ class School
     @model = model
     end
   
-
+  def school (name)
+@school = 
   
 
 end
