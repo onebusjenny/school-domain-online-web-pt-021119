@@ -6,7 +6,7 @@ class School
     end
   
   def school (name)
-@school = 
-  
+@school = name
+end  
 
 end
